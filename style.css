@@ -1,0 +1,61 @@
+p {
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 12pt;
+}
+
+h1 {
+  font-family: 'IBM Plex Serif', serif;
+  font-style: italic;
+  color: white;
+  font-size: 36pt;
+}
+
+h2 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: italic;
+  color: white;
+  font-size: 26pt;
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-style: italic;
+  color: white;
+  font-size: 16pt;
+}
+
+li {
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: white;
+  text-align: left;
+  font-size: 14pt;
+}
+#s1 {
+  width: 100%;
+}
+
+.ui.inverted.menu .item {
+  font-family: 'IBM Plex Sans', sans-serif!important;
+  color: white!important;
+  background-color: rgb(12,48,91)!important;
+}
+
+.ui.inverted.menu .item:hover {
+  background-color: rgb(67, 159, 216)!important;
+}
+
+.ui.item.menu .dropdown.item .item:hover {
+  background-color: rgb(67, 159, 216)!important;
+  color: white!important;
+}
+
+.ui.item.menu .dropdown.item .item{
+  font-family: 'IBM Plex Sans', sans-serif!important;
+  color: white!important;
+  background-color: rgb(12,48,91)!important;
+  text-align: center;
+}
+
